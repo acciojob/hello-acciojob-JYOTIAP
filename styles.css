@@ -1,19 +1,18 @@
 
-div{
+main{
 	width:150px;
 	height:150px;
 	background-color:black;
 }
-body{
-	color:white;
-}
 p{
+	color:white;
 	margin-left:32px;
-}
-div{
 	padding:10px;
 }
-}
+
+	
+	
+
 
 
 	
